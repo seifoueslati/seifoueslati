@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://github.com/seifoueslati/Tawny/blob/main/seif%20oueslati%20cv.pdf](https://github.com/seifoueslati/Tawny/blob/main/seif%20oueslati%20cv.pdf)
 
-- ⚡ Fun fact **I'm still looking for a job**
+- ⚡ Fun fact **I'm still looking for a job :) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
