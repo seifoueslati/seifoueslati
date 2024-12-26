@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **IoT**
 
-- 📫 How to reach me **seif.oueslati@esprit.tn**
+- 📫 How to reach me <a href="https://linkedin.com/in/seif-o-212840134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seif-o-212840134" height="30" width="40" /></a>
  
 - 📄 Know about my experiences [https://github.com/seifoueslati/Tawny/blob/main/seif%20oueslati%20cv.pdf](https://github.com/seifoueslati/Tawny/blob/main/seif%20oueslati%20cv.pdf)
 
